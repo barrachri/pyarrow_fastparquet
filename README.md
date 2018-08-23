@@ -1,4 +1,4 @@
-# PyArrow 🆚 Fastparquet
+# pyarrow 🆚 fastparquet
 
 This is a quick comparison between pyarrow and fastparquet.
 
