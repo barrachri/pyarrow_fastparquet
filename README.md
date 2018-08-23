@@ -1,6 +1,6 @@
 # PyArrow 🆚 Fastparquet
 
-This is a small between about the 2 Python libraries
+This is a quick comparison between pyarrow and fastparquet
 
 ## To start
 
